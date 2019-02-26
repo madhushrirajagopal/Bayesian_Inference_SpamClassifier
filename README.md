@@ -1,5 +1,6 @@
-# Bayesian_Inference_SpamClassifier
-Learning notebook for Naive Bayes Algorithm using email spam classifier example from Udacity.
+## Bayesian_Inference_SpamClassifier
+
+[https://github.com/Madhu317/Bayesian_Inference_SpamClassifier/blob/master/Bayesian_Inference.ipynb](My Learning notebook) for Naive Bayes Algorithm using email spam classifier example from Udacity.
 
 This project has been broken down in to the following steps:
 
