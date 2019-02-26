@@ -17,4 +17,4 @@ Step 5: Naive Bayes implementation using scikit-learn
 Step 6: Evaluating our model
 Step 7: Conclusion 
 
-To learn and solve, you can find the project notebook here[NLP-Exercises/1.5-spam-classifier/Bayesian_Inference.ipynb]
+To learn and solve, you can find the project notebook [NLP-Exercises/1.5-spam-classifier/Bayesian_Inference.ipynb](here).
